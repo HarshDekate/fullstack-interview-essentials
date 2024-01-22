@@ -20,7 +20,7 @@ Preparing for full stack development interviews can be a challenging task, but w
 The interview preparation covers the following key areas:
 
 - **Frontend Development:** HTML, CSS, JavaScript, Frameworks (React, Angular, Vue)
-- **Backend Development:** Node.js, Express, Django, Flask, Ruby on Rails
+- **Backend Development:** Java, Node.js, Express, Django, Flask, Ruby on Rails
 - **Database Management:** SQL, NoSQL, Database Design
 - **APIs and Web Services:** RESTful APIs, GraphQL
 - **Version Control (Git):** Git basics, branching, merging
